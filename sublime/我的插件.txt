@@ -13,3 +13,4 @@ LESS-sublime-master
 Markdown Extended
 Markdown Preview
 uroboroSQL Formatter
+Pretty JSON
