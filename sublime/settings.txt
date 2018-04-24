@@ -1,5 +1,5 @@
 {
-    "color_scheme": "Packages/Boxy Theme/schemes/Boxy Monokai.tmTheme",
+    "color_scheme": "Packages/Boxy Theme/schemes/Boxy Solarized Dark.tmTheme",
     "font_size": 12,
     "ignored_packages":
     [
@@ -20,5 +20,7 @@
     "predawn_tabs_small": false,
     "show_encoding": true,
     "show_line_endings": true,
-    "theme": "Boxy Monokai.sublime-theme"
+    "tab_size": 4,
+    "theme": "Boxy Monokai.sublime-theme",
+    "word_wrap": true
 }
